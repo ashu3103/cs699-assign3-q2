@@ -1,5 +1,0 @@
-
-Process is running
-PID: 665
-CPU Usage: 0.0
-Memory Usage: 0.0
